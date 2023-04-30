@@ -1,3 +1,8 @@
+[[Home](https://stephlynrich.github.io)] | 
+[[Publications](https://stephlynrich.github.io/publications.html)]
+[[Projects](https://stephlynrich.github.io/projects.html)]
+
+
 ## Rate-determining functional groups discovered using random forest
 ![alt](img/TOCart_v2_Rich.Zumstein.Helbling.2022.tif)
 

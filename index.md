@@ -1,5 +1,6 @@
 [[Home](https://stephlynrich.github.io)] | 
 [[Publications](https://stephlynrich.github.io/publications.html)]
+[[Projects](https://stephlynrich.github.io/projects.html)]
 
 
 # About me

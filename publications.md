@@ -1,5 +1,6 @@
 [[Home](https://stephlynrich.github.io)] | 
 [[Publications](https://stephlynrich.github.io/publications.html)]
+[[Projects](https://stephlynrich.github.io/projects.html)]
 
 # Publications
 - **Rich, S.L.**; Zumstein, M,; Helbling, D.E.; [Identifying functional groups that determine rates of micropollutant biotransformations performed by wastewater microbial communities](https://doi.org/10.1021/acs.est.1c06429). Environ. Sci. Technol. 2021. 

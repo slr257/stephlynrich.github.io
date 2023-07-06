@@ -3,7 +3,7 @@
 [[Projects](https://stephlynrich.github.io/projects.html)]
 
 # Publications
-- **Rich, S.L.**; Helbling, D.E.; [Daily Monitoring at a Full-Scale Wastewater Treatment Plant Reveals Temporally Variable Micropollutant Biotransformations](https://pubs.acs.org/doi/10.1021/acs.est.3c02408). Environ. Sci. Technol. 2021. 
+- **Rich, S.L.**; Helbling, D.E.; [Daily Monitoring at a Full-Scale Wastewater Treatment Plant Reveals Temporally Variable Micropollutant Biotransformations](https://pubs.acs.org/doi/10.1021/acs.est.3c02408). Environ. Sci. Technol. 2023. 
 
 - **Rich, S.L.**; Zumstein, M.; Helbling, D.E.; [Identifying functional groups that determine rates of micropollutant biotransformations performed by wastewater microbial communities](https://doi.org/10.1021/acs.est.1c06429). Environ. Sci. Technol. 2021. 
 

@@ -1,6 +1,8 @@
 [[Home](https://stephlynrich.github.io)] | 
 [[Publications](https://stephlynrich.github.io/publications.html)]
 [[Projects](https://stephlynrich.github.io/projects.html)]
+[[Twitter](https://twitter.com/stephrich257)]
+[[LinkedIn](https://www.linkedin.com/in/stephanielrich/)]
 
 # Publications
 - **Rich, S.L.**; Helbling, D.E.; [Daily Monitoring at a Full-Scale Wastewater Treatment Plant Reveals Temporally Variable Micropollutant Biotransformations](https://pubs.acs.org/doi/10.1021/acs.est.3c02408). Environ. Sci. Technol. 2023. 

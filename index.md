@@ -1,6 +1,8 @@
 [[Home](https://stephlynrich.github.io)] | 
 [[Publications](https://stephlynrich.github.io/publications.html)]
 [[Projects](https://stephlynrich.github.io/projects.html)]
+[[Twitter](https://twitter.com/stephrich257)]
+[[LinkedIn](https://www.linkedin.com/in/stephanielrich/)]
 
 
 # About me

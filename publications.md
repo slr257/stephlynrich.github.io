@@ -13,4 +13,4 @@
 
 - Fenner, K.; Screpanti, C.; Renold, P.; Rouchdi, M.; Vogler, B.; **Rich, S.**; [Comparison of Small Molecules Biotransformation Half-	Lives between Activated Sludge and Soil: Opportunities for Read-Across?](https://doi.org/10.1021/acs.est.9b05104). Environ. Sci. Technol. 2020.
 
-- **Rich, SL**; [Kinetic analysis of the aerobic degradation of chlorinated ethenes by the mycobacteriam ELW-1 and chlorinated ethanes by rhodococcus rhodochrous ATCC 21198](https://ir.library.oregonstate.edu/concern/honors_college_theses/qf85nd02f). Oregon State University Honors College Thesis. 2014.
+- **Rich, SL**; [Kinetic analysis of the aerobic degradation of chlorinated ethenes by the mycobacteriam ELW-1 and chlorinated ethanes by rhodococcus rhodochrous ATCC 21198](https://ir.library.oregonstate.edu/concern/honors_college_theses/qf85nd02f). Oregon State University Honors College Thesis. 2015.

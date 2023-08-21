@@ -1,6 +1,7 @@
 [[Home](https://stephlynrich.github.io)] | 
 [[Publications](https://stephlynrich.github.io/publications.html)]
 [[Projects](https://stephlynrich.github.io/projects.html)]
+[[Spotlight](https://gradschool.cornell.edu/spotlights/student-spotlight-stephanie-rich/)]
 [[Twitter](https://twitter.com/stephrich257)]
 [[LinkedIn](https://www.linkedin.com/in/stephanielrich/)]
 
